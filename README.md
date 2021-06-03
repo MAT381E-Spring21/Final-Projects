@@ -31,7 +31,7 @@ Here is the teams and their project outputs:
 
 |  Name    | Email | GitHub User Name            | Team Name                      | Projet Title                                                                 |
 | -------------------- | -------------------------- | ------------------ | ------------------------ | --------------------------------------------------------------------------- |
-| Ebru Çelik           | ebrucelik5234@gmail.com    | celikebru          | Bee Aware                | Women, Business And The Law                                                 |
+| Ebru Çelik           | ebrucelik5234@gmail.com    | @celikebru          | Bee Aware                | Women, Business And The Law                                                 |
 | Burcu Cebecioğlu     | burcucebecioglu@gmail.com  | burcucebecioglu    | Bee Aware                | Women, Business And The Law                                                 |
 | Sercan Yıldız        | sercan\_yildiz@outlook.com | sercanyildiz96     | Dinos                    | Policy effects on pandemic                                                  |
 | Onur Oruç            | orucon@itu.edu.tr          | onuroruc           | Dinos                    | Policy effects on pandemic                                                  |
