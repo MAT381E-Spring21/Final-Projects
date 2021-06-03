@@ -33,7 +33,8 @@ Here is the teams and their project outputs:
 | Ebru Çelik	       |
 | Burcu Cebecioğlu   |
 | Sercan Yıldız      |
+| Onur Oruç          |
+| Oğuzhan Seleker    |
+| Nilay Nacak        |
 
 
-
-|   |   |   |   |   |   |
