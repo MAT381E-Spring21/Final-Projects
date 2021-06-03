@@ -25,3 +25,7 @@ Some of these topics are also within the scope of sustainable development goals 
 ![](https://unemg.org/wp-content/uploads/2018/09/SDGs-1024x320.jpeg)
 
 The main aim of developing a project is to find an open-source data related to the topics mentioned above and then to use basic data science tools (data importing, cleaning, re-shaping, exploring, and visualization techniques) to touch one of societal problems in our world and let their voice be heard. 
+
+Here is the teams and their project outputs:
+
+
