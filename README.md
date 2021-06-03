@@ -28,13 +28,41 @@ The main aim of developing a project is to find an open-source data related to t
 
 Here is the teams and their project outputs:
 
-| Name               |GitHub User Name    | Team Name  | Projet Title  | Project GitHub Pages address  |
-|--------------------|--------------------|------------|---------------|-------------------------------|
-| Ebru Çelik	       |
-| Burcu Cebecioğlu   |
-| Sercan Yıldız      |
-| Onur Oruç          |
-| Oğuzhan Seleker    |
-| Nilay Nacak        |
 
-
+|  Name    | Email | GitHub User Name            | Team Name                      | Projet Title                                                                 |
+| -------------------- | -------------------------- | ------------------ | ------------------------ | --------------------------------------------------------------------------- |
+| Ebru Çelik           | ebrucelik5234@gmail.com    | celikebru          | Bee Aware                | Women, Business And The Law                                                 |
+| Burcu Cebecioğlu     | burcucebecioglu@gmail.com  | burcucebecioglu    | Bee Aware                | Women, Business And The Law                                                 |
+| Sercan Yıldız        | sercan\_yildiz@outlook.com | sercanyildiz96     | Dinos                    | Policy effects on pandemic                                                  |
+| Onur Oruç            | orucon@itu.edu.tr          | onuroruc           | Dinos                    | Policy effects on pandemic                                                  |
+| Oğuzhan Seleker      | seleker17@itu.edu.tr       | OgzhnSlkr          | Espresso                 | Shared Bike Data in NYC                                                     |
+| Nilay Nacak          | nacaknilay@gmail.com       | nacaknilay         | Espresso                 | Shared Bike Data in NYC                                                     |
+| Betül Kul            | kulb17@itu.edu.tr          | betul98            | Espresso                 | Shared Bike Data in NYC                                                     |
+| Mustafa Ekrem Körlü  | korlu16@itu.edu.tr         | ekremkrl           | Fasces                   | Estimating Non-pandemic Time Zone                                           |
+| Furkan Berk EFE      | berkfefe@gmail.com         | berkfefe           | Fasces                   | Estimating Non-Pandemic Time Zone                                           |
+| Aylin Sümer          | sumeray16@itu.edu.tr       | aylinsumer         | Gemittarius              | Violence against women (global)                                             |
+| Tuğrulgazi Avat      | avat16@itu.edu.tr          | tugrulgazi         | Gemittarius              | Violence against women (global)                                             |
+| Hazal Ünal           | unalh17@itu.edu.tr         | hazalunal          | Migraine                 | Missing Immigrants                                                          |
+| Zeynep Berna İnce    | zynpbrn.98@gmail.com       | zeynepbince        | Migraine                 | Missing Immigrants                                                          |
+| Yiğit Alp Yalçın     | yalciny16@itu.edu.tr       | YigitAlpYalcin     | Migraine                 | Missing Immigrants                                                          |
+| Buse Küçükçoban      | busekcoban@gmail.com       | busekcoban         | Oxygen                   | Raptor Persecution Incidents                                                |
+| Defne Bayrak         | bayrakde16@itu.edu.tr      | defnebayrak        | Oxygen                   | Raptor Persecution Incidents                                                |
+| Büşra Görer          | gorer@itu.edu.tr           | busragorer         | Perseverance             | Efficiency of university choices                                            |
+| Zeynep Beyza BÖREKÇİ | borekci18@itu.edu.tr       | zeynepbeyzaborekci | Perseverance             | Efficiency of university choices                                            |
+| Serhat Beyaz KÖROĞLU | korogluse@itu.edu.tr       | koroglubeyaz       | Perseverance #GoTarheels | Efficiency of university choices                                            |
+| Kazım Emre Yüksel    | emreeyukseel@gmail.com     | emreeyukseel       | Q.E.D.                   | A study on awareness of femicide statistics both in the world and in Turkey |
+| Dilara Demiralp      | dilarademiralp8@gmail.com  | dilarademiralp     | Q.E.D.                   | A study on awareness of femicide statistics both in the world and in Turkey |
+| Beyza Cesur          | cesurb16@itu.edu.tr        | beyzacesur         | Quake                    | Earthquake Scenario Analysis for Istanbul                                   |
+| Nisanur Kaya         | nisanurkaya@yahoo.com      | nisanrky           | Quake                    | Earthquake Scenario Analysis for Istanbul                                   |
+| Burak Şahin          | buraksah1n@yahoo.com       | buraksah1n         | Quake                    | Earthquake Scenario Analysis for Istanbul                                   |
+| Naime Akgün          | akgunn17@itu.edu.tr        | naimeakgun         | R-ge                     | Air Quality                                                                 |
+| Bilge Alparslan      | alparslan17@itu.edu.tr     | bilgealparslan     | R-ge                     | Air Quality                                                                 |
+| Yusuf Emre Bayat     | bayat18@itu.edu.tr         | yeyosef            | Riot                     | Turkey's Social Development                                                 |
+| Tarık Kayalı         | kayali18@itu.edu.tr        | tarikkayali        | Riot                     | Turkey's Social Development                                                 |
+| Yasemin Dikme        | dikme16@itu.edu.tr         | yasemindikme       | Square                   | Children's Health Around the World                                          |
+| Aslı Kılıç           | aslikilic998@gmail.com     | aslikilicc         | Square                   | Children's Health Around the World                                          |
+| Yusuf Teker          | teker17@itu.edu.tr         | yusuf-teker        | Tesla                    | Gender Equality                                                             |
+| İbrahim ŞAHİN        | sahinibr17@itu.edu.tr      | sahinibr17         | Tesla                    | Gender Equality                                                             |
+| Erdi Akyüz           | akyuze15@itu.edu.tr        | akyuze15           | Tesla                    | Gender Equality                                                             |
+| İpek Korkmaz         | ipekkorkmz@gmail.com       | ipekkorkmz         | Vinir                    | Endangered Species: Sea Turtles<br>                                         |
+| Selen Kartal         | kartalselenn@gmail.com     | selenkartall       | Vinir                    | Endangered Species: Sea Turtles<br>                                         |
