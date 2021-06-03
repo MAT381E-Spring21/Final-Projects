@@ -28,7 +28,7 @@ Some of these topics are also within the scope of sustainable development goals 
 
 The main aim of developing a project is to find an open-source data related to the topics mentioned above and then to use basic data science tools (data importing, cleaning, re-shaping, exploring, and visualization techniques) to touch one of societal problems in our world and let their voice be heard. 
 
-Here is the teams and their project outputs:
+ While access to the projects will be available towards the end of June, here is the teams and their project titles:
 
 
 |  Name    | Email | GitHub User Name            | Team Name                      | Projet Title                                                                 |
