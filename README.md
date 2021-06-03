@@ -1,5 +1,5 @@
 
-In MAT381E:Introduction to Data Science course, students, as a group of 2-3, are expected to develop a data science project motivated by one of the topics related to, but not limited to:
+In **MAT381E:Introduction to Data Science** course, students, as a group of 2-3, are expected to develop a data science project motivated by one of the topics related to, but not limited to:
 
 * Animals,
 * Children, 
