@@ -47,8 +47,8 @@ The main aim of developing a project is to find an open-source data related to t
 | Hazal Ünal           | unalh17@itu.edu.tr         | hazalunal          | Migraine                 | [Missing Immigrants](https://hazalunal.github.io/missing.migrants/MissingImmigrants_TeamMigraine.html)                                                        |
 | Zeynep Berna İnce    | zynpbrn.98@gmail.com       | zeynepbince        | Migraine                 | [Missing Immigrants](https://zeynepbince.github.io/missing.migrants/MissingImmigrants_TeamMigraine.html)                                                          |
 | Yiğit Alp Yalçın     | yalciny16@itu.edu.tr       | YigitAlpYalcin     | Migraine                 | Missing Immigrants                                                          |
-| Buse Küçükçoban      | busekcoban@gmail.com       | busekcoban         | Oxygen                   | Raptor Persecution Incidents                                                |
-| Defne Bayrak         | bayrakde16@itu.edu.tr      | defnebayrak        | Oxygen                   | Raptor Persecution Incidents                                                |
+| Buse Küçükçoban      | busekcoban@gmail.com       | busekcoban         | Oxygen                   | [Raptor Persecution Incidents](https://busekcoban.github.io/)                                               |
+| Defne Bayrak         | bayrakde16@itu.edu.tr      | defnebayrak        | Oxygen                   | [Raptor Persecution Incidents](https://defnebayrak.github.io/#(1))                                                |
 | Büşra Görer          | gorer@itu.edu.tr           | busragorer         | Perseverance             | Efficiency of university choices                                            |
 | Zeynep Beyza BÖREKÇİ | borekci18@itu.edu.tr       | zeynepbeyzaborekci | Perseverance             | Efficiency of university choices                                            |
 | Serhat Beyaz KÖROĞLU | korogluse@itu.edu.tr       | koroglubeyaz       | Perseverance #GoTarheels | Efficiency of university choices                                            |
@@ -66,5 +66,5 @@ The main aim of developing a project is to find an open-source data related to t
 | Yusuf Teker          | teker17@itu.edu.tr         | yusuf-teker        | Tesla                    | Gender Equality                                                             |
 | İbrahim ŞAHİN        | sahinibr17@itu.edu.tr      | sahinibr17         | Tesla                    | Gender Equality                                                             |
 | Erdi Akyüz           | akyuze15@itu.edu.tr        | akyuze15           | Tesla                    | Gender Equality                                                             |
-| İpek Korkmaz         | ipekkorkmz@gmail.com       | ipekkorkmz         | Vinir                    | Endangered Species: Sea Turtles<br>                                         |
-| Selen Kartal         | kartalselenn@gmail.com     | selenkartall       | Vinir                    | Endangered Species: Sea Turtles<br>                                         |
+| İpek Korkmaz         | ipekkorkmz@gmail.com       | ipekkorkmz         | Vinir                    | [Endangered Species: Sea Turtles](https://ipekkorkmz.github.io/Sea_Turtles/)                                        |
+| Selen Kartal         | kartalselenn@gmail.com     | selenkartall       | Vinir                    | [Endangered Species: Sea Turtles](https://selenkartall.github.io/Endangered_Sea_Turtles/index.html)                                         |
