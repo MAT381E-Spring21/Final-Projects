@@ -31,15 +31,15 @@ The main aim of developing a project is to find an open-source data related to t
  While access to the projects will be available towards the end of June, here are the teams and their project titles:
 
 
-|  Name    | Email | GitHub User Name            | Team Name                      | Projet Title                                                                 |
+|  Name    | Email | GitHub User Name            | Team Name                      | Project Link                                                                |
 | -------------------- | -------------------------- | ------------------ | ------------------------ | --------------------------------------------------------------------------- |
-| Ebru Çelik           | ebrucelik5234@gmail.com    | celikebru          | Bee Aware                | Women, Business And The Law                                                 |
-| Burcu Cebecioğlu     | burcucebecioglu@gmail.com  | burcucebecioglu    | Bee Aware                | Women, Business And The Law                                                 |
-| Sercan Yıldız        | sercan\_yildiz@outlook.com | sercanyildiz96     | Dinos                    | Policy effects on pandemic                                                  |
-| Onur Oruç            | orucon@itu.edu.tr          | onuroruc           | Dinos                    | Policy effects on pandemic                                                  |
-| Oğuzhan Seleker      | seleker17@itu.edu.tr       | OgzhnSlkr          | Espresso                 | Shared Bike Data in NYC                                                     |
-| Nilay Nacak          | nacaknilay@gmail.com       | nacaknilay         | Espresso                 | Shared Bike Data in NYC                                                     |
-| Betül Kul            | kulb17@itu.edu.tr          | betul98            | Espresso                 | Shared Bike Data in NYC                                                     |
+| Ebru Çelik           | ebrucelik5234@gmail.com    | celikebru          | Bee Aware                | [Women, Business And The Law](https://celikebru.github.io/BeeAware/)                                             |
+| Burcu Cebecioğlu     | burcucebecioglu@gmail.com  | burcucebecioglu    | Bee Aware                | [Women, Business And The Law](https://burcucebecioglu.github.io/BeeAware/)                                                 |
+| Sercan Yıldız        | sercan\_yildiz@outlook.com | sercanyildiz96     | Dinos                    | [Policy effects on pandemic](https://sercanyildiz96.github.io/Mat381-sercanyildiz/dinos.html)                                                  |
+| Onur Oruç            | orucon@itu.edu.tr          | onuroruc           | Dinos                    | [Policy effects on pandemic](https://onuroruc.github.io/MAT381OnurOruc/dinos.html)                                                    |
+| Oğuzhan Seleker      | seleker17@itu.edu.tr       | OgzhnSlkr          | Espresso                 | [Shared Bike Data in NYC](https://oguzhanseleker.github.io/CitiBikeUsageInNYC/#1)                                                     |
+| Nilay Nacak          | nacaknilay@gmail.com       | nacaknilay         | Espresso                 | [Shared Bike Data in NYC](https://nacaknilay.github.io/CitiBikeUsageInNYC/#1)                                                     |
+| Betül Kul            | kulb17@itu.edu.tr          | betul98            | Espresso                 | [Shared Bike Data in NYC](https://betul98.github.io/CitiBikeUsageInNYC/#1)                                                      |
 | Mustafa Ekrem Körlü  | korlu16@itu.edu.tr         | ekremkrl           | Fasces                   | Estimating Non-pandemic Time Zone                                           |
 | Furkan Berk EFE      | berkfefe@gmail.com         | berkfefe           | Fasces                   | Estimating Non-Pandemic Time Zone                                           |
 | Aylin Sümer          | sumeray16@itu.edu.tr       | aylinsumer         | Gemittarius              | Violence against women (global)                                             |
