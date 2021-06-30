@@ -61,8 +61,9 @@ The main aim of developing a project is to find an open-source data related to t
 | Bilge Alparslan      | alparslan17@itu.edu.tr     | bilgealparslan     | R-ge                     | Air Quality                                                                 |
 | Yusuf Emre Bayat     | bayat18@itu.edu.tr         | yeyosef            | Riot                     | Turkey's Social Development                                                 |
 | Tarık Kayalı         | kayali18@itu.edu.tr        | tarikkayali        | Riot                     | Turkey's Social Development                                                 |
-| Yasemin Dikme        | dikme16@itu.edu.tr         | yasemindikme       | Square                   | Children's Health Around the World                                          |
-| Aslı Kılıç           | aslikilic998@gmail.com     | aslikilicc         | Square                   | Children's Health Around the World                                          |
+| Yasemin Dikme        | dikme16@itu.edu.tr         | yasemindikme       | Square                   | [Children's Health Around the World](https://yasemindikme.github.io/)
+)                                          |
+| Aslı Kılıç           | aslikilic998@gmail.com     | aslikilicc         | Square                   | [Children's Health Around the World](https://aslikilicc.github.io/)                                          |
 | Yusuf Teker          | teker17@itu.edu.tr         | yusuf-teker        | Tesla                    | Gender Equality                                                             |
 | İbrahim ŞAHİN        | sahinibr17@itu.edu.tr      | sahinibr17         | Tesla                    | [Gender Equality](https://sahinibr17.github.io/GenderEquality/project_final_Tesla.html)                                                       |
 | Erdi Akyüz           | akyuze15@itu.edu.tr        | akyuze15           | Tesla                    | [Gender Equality](https://akyuze15.github.io/GenderEquality/)                                                         |
