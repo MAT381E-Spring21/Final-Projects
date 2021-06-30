@@ -52,8 +52,8 @@ The main aim of developing a project is to find an open-source data related to t
 | Büşra Görer          | gorer@itu.edu.tr           | busragorer         | Perseverance             | Efficiency of university choices                                            |
 | Zeynep Beyza BÖREKÇİ | borekci18@itu.edu.tr       | zeynepbeyzaborekci | Perseverance             | Efficiency of university choices                                            |
 | Serhat Beyaz KÖROĞLU | korogluse@itu.edu.tr       | koroglubeyaz       | Perseverance #GoTarheels | Efficiency of university choices                                            |
-| Kazım Emre Yüksel    | emreeyukseel@gmail.com     | emreeyukseel       | Q.E.D.                   | A study on awareness of femicide statistics both in the world and in Turkey |
-| Dilara Demiralp      | dilarademiralp8@gmail.com  | dilarademiralp     | Q.E.D.                   | A study on awareness of femicide statistics both in the world and in Turkey |
+| Kazım Emre Yüksel    | emreeyukseel@gmail.com     | emreeyukseel       | Q.E.D.                   | [A study on awareness of femicide statistics both in the world and in Turkey](https://emreeyukseel.github.io/Femicide-Statistics/index.html) |
+| Dilara Demiralp      | dilarademiralp8@gmail.com  | dilarademiralp     | Q.E.D.                   | [A study on awareness of femicide statistics both in the world and in Turkey](https://dilarademiralp.github.io/Final-Project/Final-Report.html) |
 | Beyza Cesur          | cesurb16@itu.edu.tr        | beyzacesur         | Quake                    | Earthquake Scenario Analysis for Istanbul                                   |
 | Nisanur Kaya         | nisanurkaya@yahoo.com      | nisanrky           | Quake                    | Earthquake Scenario Analysis for Istanbul                                   |
 | Burak Şahin          | buraksah1n@yahoo.com       | buraksah1n         | Quake                    | Earthquake Scenario Analysis for Istanbul                                   |
