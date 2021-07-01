@@ -57,7 +57,7 @@ The main aim of developing a project is to find an open-source data related to t
 | Beyza Cesur          | cesurb16@itu.edu.tr        | beyzacesur         | Quake                    | Earthquake Scenario Analysis for Istanbul                                   |
 | Nisanur Kaya         | nisanurkaya@yahoo.com      | nisanrky           | Quake                    | Earthquake Scenario Analysis for Istanbul                                   |
 | Burak Şahin          | buraksah1n@yahoo.com       | buraksah1n         | Quake                    | Earthquake Scenario Analysis for Istanbul                                   |
-| Naime Akgün          | akgunn17@itu.edu.tr        | naimeakgun         | R-ge                     | Air Quality                                                                 |
+| Naime Akgün          | akgunn17@itu.edu.tr        | naimeakgun         | R-ge                     | [Air Quality](https://naimeakgun.github.io/final-documents/)                                                                 |
 | Bilge Alparslan      | alparslan17@itu.edu.tr     | bilgealparslan     | R-ge                     | [Air Quality](https://bilgealparslan.github.io/Final-Documents/)                                                                 |
 | Yusuf Emre Bayat     | bayat18@itu.edu.tr         | yeyosef            | Riot                     | [Turkey's Social Development](https://yeyosef.github.io/turkeysocialdevelopment/)                                                 |
 | Tarık Kayalı         | kayali18@itu.edu.tr        | tarikkayali        | Riot                     | [Turkey's Social Development](https://tarikkayali.github.io/Turkey-Social-Development/)                                                 |
