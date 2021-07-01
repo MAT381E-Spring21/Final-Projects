@@ -54,9 +54,10 @@ The main aim of developing a project is to find an open-source data related to t
 | Serhat Beyaz KÖROĞLU | korogluse@itu.edu.tr       | koroglubeyaz       | Perseverance #GoTarheels | Efficiency of university choices                                            |
 | Kazım Emre Yüksel    | emreeyukseel@gmail.com     | emreeyukseel       | Q.E.D.                   | [A study on awareness of femicide statistics both in the world and in Turkey](https://emreeyukseel.github.io/Femicide-Statistics/index.html) |
 | Dilara Demiralp      | dilarademiralp8@gmail.com  | dilarademiralp     | Q.E.D.                   | [A study on awareness of femicide statistics both in the world and in Turkey](https://dilarademiralp.github.io/Final-Project/Final-Report.html) |
-| Beyza Cesur          | cesurb16@itu.edu.tr        | beyzacesur         | Quake                    | Earthquake Scenario Analysis for Istanbul                                   |
-| Nisanur Kaya         | nisanurkaya@yahoo.com      | nisanrky           | Quake                    | Earthquake Scenario Analysis for Istanbul                                   |
-| Burak Şahin          | buraksah1n@yahoo.com       | buraksah1n         | Quake                    | Earthquake Scenario Analysis for Istanbul                                   |
+| Beyza Cesur          | cesurb16@itu.edu.tr        | beyzacesur         | Quake                    | [Earthquake Scenario Analysis for Istanbul](https://beyzacesur.github.io/)
+                                   |
+| Nisanur Kaya         | nisanurkaya@yahoo.com      | nisanrky           | Quake                    | [Earthquake Scenario Analysis for Istanbul](https://nisanrky.github.io/nisanurky.github.io/)                                   |
+| Burak Şahin          | buraksah1n@yahoo.com       | buraksah1n         | Quake                    | [Earthquake Scenario Analysis for Istanbul](https://buraksah1n.github.io/quake.io/)                                   |
 | Naime Akgün          | akgunn17@itu.edu.tr        | naimeakgun         | R-ge                     | [Air Quality](https://naimeakgun.github.io/final-documents/)                                                                 |
 | Bilge Alparslan      | alparslan17@itu.edu.tr     | bilgealparslan     | R-ge                     | [Air Quality](https://bilgealparslan.github.io/Final-Documents/)                                                                 |
 | Yusuf Emre Bayat     | bayat18@itu.edu.tr         | yeyosef            | Riot                     | [Turkey's Social Development](https://yeyosef.github.io/turkeysocialdevelopment/)                                                 |
